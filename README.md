@@ -64,7 +64,7 @@ cd solar-tracker-ml
 
 2. **Install Requirements**
 ```bash
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 
 3. **Launch Streamlit App**
